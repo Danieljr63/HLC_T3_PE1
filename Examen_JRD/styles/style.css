@@ -1,0 +1,87 @@
+.klee-one-regular {
+    font-family: "Klee One", serif;
+    font-weight: 400;
+    font-style: normal;
+} 
+h1{
+    font-family: "Klee One";
+    font-style: normal;
+}
+body{
+    font-family: "Klee One";
+    font-style: normal;
+    background-color: #f4f4f4;
+}
+img{
+    border-radius: 10px;
+    height: 250px;
+    width: 350px;
+}
+.btn1 {
+    background-color: #4476a8;
+    justify-content: space-between;
+    padding: 25px;
+    justify-content: space-around;
+    font-family: "Klee One";
+    font-style: normal;
+}
+.btn2 {
+    background-color: #4476a8;
+    justify-content: space-between;
+    padding: 25px;
+    justify-content: space-around;
+    font-family: "Klee One";
+    font-style: normal;
+}
+.btn3 {
+    background-color: #4476a8;
+    justify-content: space-between;
+    padding: 25px;
+    justify-content: space-around;
+    font-family: "Klee One";
+    font-style: normal;
+}
+.btn1:hover{
+    background-color: #1abc9c;
+    transition: all 1s;
+}
+.btn2:hover{
+    background-color: #1abc9c;
+    transition: all 1s;
+}
+.btn3:hover{
+    background-color: #1abc9c;
+    transition: all 1s;
+}
+nav {
+    display: flex;
+    background-color: #4476a8;
+    min-width: 100vh;
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    height: 50px;
+    width: auto;
+    border-radius: 5px;
+}
+th{
+    background-color: #1abc9c;
+    color: #f4f4f4;
+}
+.formulario{
+    border-radius: 5px;
+}
+.formulario input{
+    min-width: 100vh;
+}
+.formulario textarea{
+    min-width: 100vh;
+}
+.formulario button{
+    background-color: #4476a8;
+    padding: 10px;
+    color: #f4f4f4;
+    border-radius: 10px;
+}
